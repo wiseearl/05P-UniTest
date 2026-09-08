@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+My Notes: Test 2026/9/8
 route.py - 在戶型圖 (image/map.png) 上標記「廚房」到「主臥」的行走路線。
 
 作法：
